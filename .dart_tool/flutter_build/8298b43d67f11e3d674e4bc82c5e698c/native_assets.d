@@ -1,0 +1,1 @@
+ C:\\Users\\rafia\\StudioProjects\\tb2_flutterproject\\.dart_tool\\flutter_build\\8298b43d67f11e3d674e4bc82c5e698c\\native_assets.yaml: 
